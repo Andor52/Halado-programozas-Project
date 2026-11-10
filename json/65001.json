@@ -1,0 +1,17 @@
+{
+  "id": "65001",
+  "category": "Zeleniny",
+  "name": "Petržel listová",
+  "latin_name": "Petroselinum crispum (Mill.) Nyman ex A.W. Hill",
+  "variety": "ASTRA",
+  "amount_raw": "4 g",
+  "seed_count": null,
+  "weight_g": 4,
+  "price_category": "B",
+  "price_without_vat": 19,
+  "price_with_vat": 21.28,
+  "currency": "CZK",
+  "image_file": "65001.jpg",
+  "image_url": "https://moravoseed.cz/web/media/zbozi/2510mm_-_Petrel_naov_kadeav_Astra_65001.jpg",
+  "detail_url": "https://moravoseed.cz/eshop/detail.php?id=184&kat=4"
+}

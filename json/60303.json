@@ -1,0 +1,17 @@
+{
+  "id": "60303",
+  "category": "Zeleniny",
+  "name": "Brokolice",
+  "latin_name": "Brassica oleracea L.",
+  "variety": "LIMBA",
+  "amount_raw": "100 s",
+  "seed_count": 100,
+  "weight_g": null,
+  "price_category": "B",
+  "price_without_vat": 19,
+  "price_with_vat": 21.28,
+  "currency": "CZK",
+  "image_file": "60303.jpg",
+  "image_url": "https://moravoseed.cz/web/media/zbozi/0119mm_-_Brokolice_Limba_60303.jpg",
+  "detail_url": "https://moravoseed.cz/eshop/detail.php?id=7&kat=4"
+}
