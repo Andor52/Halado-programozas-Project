@@ -1,0 +1,168 @@
+{
+  "seed_count": 100,
+  "price_category": "B",
+  "name": "BROKOLICE",
+  "variety": "Limba",
+  "description_hu": "um BROKKOLI. Ez a korai brokkoli-fajta középnagyságú zöld virágzatot te- remt, amely friss fogyasztáshoz alkalmas vagy rövid időre elraktározható.",
+  "barcode": {
+    "value": "8590383603032",
+    "format": "EAN-13",
+    "warnings": []
+  },
+  "pictograms": [
+    {
+      "identifier": "pictogram_01",
+      "picture_text": "Kan",
+      "caption_text": ".",
+      "picture_confidence": 59.0,
+      "caption_confidence": 0.0,
+      "caption_type": "months",
+      "caption_normalized": null,
+      "months": null,
+      "depth": {
+        "raw_text": "1cm",
+        "normalized_text": "1cm",
+        "min_cm": 1.0,
+        "max_cm": 1.0,
+        "mean_confidence": 6.0,
+        "method": "full_text",
+        "number_raw_text": null,
+        "unit_raw_text": null,
+        "number_confidence": null,
+        "unit_confidence": null,
+        "warnings": [
+          "Alacsony OCR-konfidencia; a mélységadatot ellenőrizni kell."
+        ]
+      },
+      "meaning": null,
+      "red_x_detected": null,
+      "warnings": [
+        "A felismert felirat csak elválasztójeleket tartalmaz; hónapszámot nem.",
+        "Az alsó felirat OCR-konfidenciája alacsony; a feldolgozott értéket is ellenőrizni kell."
+      ]
+    },
+    {
+      "identifier": "pictogram_02",
+      "picture_text": "Ka",
+      "caption_text": "IV.-VII.",
+      "picture_confidence": 64.0,
+      "caption_confidence": 0.0,
+      "caption_type": "months",
+      "caption_normalized": "IV-VII",
+      "months": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "depth": {
+        "raw_text": "1 cm",
+        "normalized_text": "1cm",
+        "min_cm": 1.0,
+        "max_cm": 1.0,
+        "mean_confidence": null,
+        "method": "split_single_digit",
+        "number_raw_text": "1",
+        "unit_raw_text": "cm",
+        "number_confidence": 96.0,
+        "unit_confidence": 94.0,
+        "warnings": []
+      },
+      "meaning": null,
+      "red_x_detected": null,
+      "warnings": [
+        "Az alsó felirat OCR-konfidenciája alacsony; a feldolgozott értéket is ellenőrizni kell."
+      ]
+    },
+    {
+      "identifier": "pictogram_03",
+      "picture_text": "of",
+      "caption_text": "IV.-VI.",
+      "picture_confidence": 37.0,
+      "caption_confidence": 32.0,
+      "caption_type": "months",
+      "caption_normalized": "IV-VI",
+      "months": [
+        4,
+        5,
+        6
+      ],
+      "depth": null,
+      "meaning": null,
+      "red_x_detected": null,
+      "warnings": [
+        "Az alsó felirat OCR-konfidenciája alacsony; a feldolgozott értéket is ellenőrizni kell."
+      ]
+    },
+    {
+      "identifier": "pictogram_04",
+      "picture_text": "",
+      "caption_text": "50x50cm",
+      "picture_confidence": null,
+      "caption_confidence": 0.0,
+      "caption_type": "spacing",
+      "caption_normalized": null,
+      "months": null,
+      "depth": null,
+      "meaning": null,
+      "red_x_detected": null,
+      "warnings": [
+        "Képbe írt szöveg: nincs felismert szöveg. Ez nem bizonyítja, hogy a régióban nincs felirat.",
+        "Az alsó felirat OCR-konfidenciája alacsony; a feldolgozott értéket is ellenőrizni kell."
+      ]
+    },
+    {
+      "identifier": "pictogram_05",
+      "picture_text": "",
+      "caption_text": "VI.-X.",
+      "picture_confidence": null,
+      "caption_confidence": 63.0,
+      "caption_type": "months",
+      "caption_normalized": "VI-X",
+      "months": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "depth": null,
+      "meaning": null,
+      "red_x_detected": null,
+      "warnings": [
+        "Képbe írt szöveg: nincs felismert szöveg. Ez nem bizonyítja, hogy a régióban nincs felirat."
+      ]
+    }
+  ],
+  "recognition": {
+    "seed_count": {
+      "raw_text": "100",
+      "mean_confidence": 0.0,
+      "warnings": [
+        "Alacsony átlagos OCR-konfidencia; ellenőrzés szükséges."
+      ]
+    },
+    "price_category": {
+      "raw_text": "B",
+      "mean_confidence": 84.0,
+      "warnings": []
+    },
+    "name": {
+      "raw_text": "BROKOLICE",
+      "mean_confidence": 47.0,
+      "warnings": [
+        "Alacsony átlagos OCR-konfidencia; ellenőrzés szükséges."
+      ]
+    },
+    "variety": {
+      "raw_text": "Limba",
+      "mean_confidence": 96.0,
+      "warnings": []
+    },
+    "description_hu": {
+      "raw_text": "um BROKKOLI. Ez a korai brokkoli-fajta középnagyságú zöld virágzatot te-\nremt, amely friss fogyasztáshoz alkalmas vagy rövid időre elraktározható.",
+      "mean_confidence": 91.21,
+      "warnings": []
+    }
+  }
+}
